@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "937774912364",
+    "firebase_url": "https://codechatandy-78adf.firebaseio.com",
+    "project_id": "codechatandy-78adf",
+    "storage_bucket": "codechatandy-78adf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:937774912364:android:c5d22a587deb904e",
+        "android_client_info": {
+          "package_name": "com.pratik.codechatandy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "937774912364-fr2l7e643nrtqti45o504raf6se2ltum.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pratik.codechatandy",
+            "certificate_hash": "77be92b3708c85432d64f47d9ec17d354bfce55b"
+          }
+        },
+        {
+          "client_id": "937774912364-nb9ir1qaaocnnuj3t5oeh05advp2ceqa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVsas25gptzbAhUxCMGtIS_utZED0H11Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "937774912364-nb9ir1qaaocnnuj3t5oeh05advp2ceqa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

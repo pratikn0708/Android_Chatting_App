@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Code Chat Andy</string>
+    <string name="hint_email">Email</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="invalid_email">Your email is invalid</string>
+    <string name="invalid_password">Your password is too short</string>
+    <string name="incorrect_password">Your password is incorrect</string>
+    <string name="field_required">Please fill the fields</string>
+
+</resources>
